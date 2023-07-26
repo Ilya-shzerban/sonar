@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pebVyT3x5QHjIlayN7B7UMijK9V7XxA7djZPbgHgkH6CtLuRlLhVPbgZ84ntWyHk3u77NJvWdA5CxyFjQBZKgQ==",
+  "success": true,
+  "projectFilePath": "/home/ilya/projects_external/dotnetDemo/dotnetDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/ilya/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/home/ilya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "/home/ilya/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.9/microsoft.netcore.app.host.linux-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

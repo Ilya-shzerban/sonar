@@ -1,0 +1,1 @@
+/home/ilya/projects_external/dotnetDemo/.sonarqube/out/0
